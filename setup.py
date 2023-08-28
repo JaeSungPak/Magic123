@@ -4,7 +4,6 @@ setup(
     name="magic123",
     packages=[
         "nerf",
-        "easydict",
     ],
     install_requires=[
         "filelock",
